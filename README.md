@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Professor area de jogos
-- 🌱 Estudando  Windows Forms C#
+- 🔭 Desenvolvedor Front-End junior
+- 🌱 Estudando  Html/Css/JavaScript/React
 - 😄 Pronouns: ele/dele
 
 <div align="center">
